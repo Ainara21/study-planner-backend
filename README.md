@@ -4,6 +4,11 @@ Backend del proyecto final **Study Planner**, una aplicacion CRUD para organizar
 
 La API esta hecha con **Node.js**, **Express** y **MongoDB Atlas** usando **Mongoose**.
 
+## Enlaces
+
+- Repositorio: https://github.com/Ainara21/study-planner-backend
+- Deploy: https://study-planner-backend-itdb.onrender.com
+
 ## Funcionalidades
 
 - Crear tareas
@@ -90,6 +95,4 @@ http://localhost:4000
 
 ## Estado del proyecto
 
-Actualmente el backend funciona en local y esta conectado a MongoDB Atlas.
-
-Cuando el proyecto este desplegado, aqui se puede añadir la URL publica del backend.
+Actualmente el backend funciona en local y tambien esta desplegado en Render.
